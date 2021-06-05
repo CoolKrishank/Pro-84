@@ -1,0 +1,17 @@
+body{
+	background-image: url("https://images-na.ssl-images-amazon.com/images/I/61vEXXssJ%2BL._AC_SX679_.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas{
+	border-width:10px;
+    background-image: url("https://images-na.ssl-images-amazon.com/images/I/41dy4YRHIML._AC_.jpg");
+    background-size: cover;
+	border-style:ridge;
+}
+h1,h2{
+	color: white !important;
+}
+h4 {
+    color: black;
+}
